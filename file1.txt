@@ -1,2 +1,3 @@
 Welcome
 to aruba training
+new feature added
