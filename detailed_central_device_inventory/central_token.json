@@ -1,0 +1,9 @@
+{
+    "central_info": {
+        "base_url": "internal-apigw.central.arubanetworks.com",
+        "token": {
+            "access_token": "cJu8AFy73I16ua3nN2nry22QPWx3Bweu"
+        }
+    },
+    "ssl_verify": true
+}
